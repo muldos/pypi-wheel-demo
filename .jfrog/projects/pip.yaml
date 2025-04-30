@@ -1,0 +1,8 @@
+version: 1
+type: pip
+resolver:
+    repo: dro-python-dev-virtual
+    serverId: solengeu
+deployer:
+    repo: dro-python-dev-virtual
+    serverId: solengeu
